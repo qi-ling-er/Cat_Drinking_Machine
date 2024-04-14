@@ -27,3 +27,4 @@
     继电器
     ![image](https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/Picture/%E7%BB%A7%E7%94%B5%E5%99%A81.png)
     
+![定时模式1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/903c5a46-784a-43a0-b97d-8c70930c0b90)
