@@ -14,7 +14,7 @@
 ![定时模式2](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/b535a5ab-d3b0-4b8a-ad7c-99a7863bf7db)                                                                                        
 
 自定义引脚配置
-每个模块可修改配置引脚，具体见
+每个模块可修改配置引脚，具体见                                                                                                                                                                                                                                                      
     按键（切换模式用的）
 ![按键1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/93412b81-b148-4465-923d-90a7a0d9f4d3)                                                                                            
     红外传感器（可以不安四个，但修改程序需要一点点技术）
