@@ -1,4 +1,4 @@
-# Cat_Drinking_Machine
+# Cat_Drinking_Machine(已维护)
 这是一个嵌入式项目，所用环境为Keil5 MDK，项目名为猫猫饮水机，一共有两种模式，感应模式和定时模式                                                                                                                 
 模式介绍                                                                                                                                                                                                      
 1.感应模式                                                                                                                                                                                                    
@@ -8,8 +8,9 @@
     当按一下按键的时候，蜂鸣器会响一声，进入定时出水模式。                                                                                                                                                     
     在定时出水模式下，按一下按键，蜂鸣器会响两声，退出定时出水模式（回到感应模式）。                                                                                                                            
     在定时出水模式下，可自定义多长时间出水一次，及出水一次持续多长时间，修改具体位置见下图                                                                                                                      
-    双击project.uvprojx文件，左侧选中                                                                                                                                                                         
-![定时模式1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/66aed13e-7b0f-490e-8747-996a4791257d)                                                                                        
+    双击project.uvprojx文件，左侧选中                                                                                                                                                                                                                                              
+    修改间隔时间和每次出水时间有一点点变动                                                                                                                                                                                                                                           
+![定时模式1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/66aed13e-7b0f-490e-8747-996a4791257d)                                                                                                                                                            
 ![定时模式2](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/b535a5ab-d3b0-4b8a-ad7c-99a7863bf7db)                                                                                        
 
 自定义引脚配置
