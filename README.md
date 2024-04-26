@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/">
-    <img src="./Picture/蜂鸣器1.png" alt="效果图" width="80" height="80">
+    <img src="" alt="效果图" width="80" height="80">
   </a>
 
   <h3 align="center">支持两种模式，随心切换</h3>
