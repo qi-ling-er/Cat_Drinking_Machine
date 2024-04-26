@@ -12,7 +12,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-                              ![继电器1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/8761013f-725d-4743-b49a-b0d252c38412)
+                                                                  ![继电器1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/8761013f-725d-4743-b49a-b0d252c38412)
 
 <!-- PROJECT LOGO -->
 <br />
