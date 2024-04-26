@@ -18,12 +18,6 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/">
-    <div>
-    <img src="">
-    </div>
-  </a>
-<img src="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/Picture/%E5%AE%9A%E6%97%B6%E6%A8%A1%E5%BC%8F1.png">
   <h3 align="center">支持两种模式，随心切换</h3>
   <p align="center">
     一种模式为感应模式，一种为定时供水模式。感应模式即感应到猫咪即可自动供水，定时供水模式即设定好间隔时间和供水时间自动供水。
