@@ -2,7 +2,7 @@
 
 # 猫咪饮水机
 
-为了解决铲屎官给猫猫喂水的烦恼而设计，可设置为感应或定时供水两种模式
+为了解决铲屎官给猫猫喂水的烦恼而设计
 
 <!-- PROJECT SHIELDS -->
 
@@ -18,17 +18,17 @@
 
 <p align="center">
   <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/">
-    <img src="[Picture/蜂鸣器1.png](https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/Picture/%E8%9C%82%E9%B8%A3%E5%99%A81.png)" alt="效果图" width="80" height="80">
+    <img src="Picture/蜂鸣器1.png" alt="效果图" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">支持两种模式，随心切换</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    一种模式为感应模式，一种为定时供水模式。感应模式即感应到猫咪即可自动供水，定时供水模式即设定好间隔时间和供水时间自动供水。
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.docx"><strong>使用说明 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E8%AE%BE%E8%AE%A1%E5%9B%BE.docx">设计图</a>
     ·
     <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
     ·
@@ -38,13 +38,13 @@
 </p>
 
 
- 本篇README.md面向开发者
+ 
  
 ## 目录
 
 - [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
+  - [开发版型号](#开发板型号)
+  - [传感器](#传感器)
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
 - [部署](#部署)
