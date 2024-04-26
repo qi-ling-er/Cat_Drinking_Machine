@@ -13,13 +13,14 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
   <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/">
     <div>
-    <img src="/blob/main/Picture/%E5%AE%9A%E6%97%B6%E6%A8%A1%E5%BC%8F1.png">
+    <img src="![继电器1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/8761013f-725d-4743-b49a-b0d252c38412)">
     </div>
   </a>
 <img src="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/Picture/%E5%AE%9A%E6%97%B6%E6%A8%A1%E5%BC%8F1.png">
