@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/">
     <div>
-    <img src="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/Picture/%E5%AE%9A%E6%97%B6%E6%A8%A1%E5%BC%8F1.png">
+    <png src="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/Picture/%E5%AE%9A%E6%97%B6%E6%A8%A1%E5%BC%8F1.png">
     </div>
   </a>
 
