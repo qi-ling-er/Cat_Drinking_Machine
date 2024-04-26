@@ -2,7 +2,7 @@
 
 # 猫咪饮水机
 
-ProjectName and Description
+为了解决铲屎官给猫猫喂水的烦恼而设计，可设置为感应或定时供水两种模式
 
 <!-- PROJECT SHIELDS -->
 
@@ -17,8 +17,8 @@ ProjectName and Description
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/">
+    <img src="blob/main/Picture/蜂鸣器1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">"完美的"README模板</h3>
