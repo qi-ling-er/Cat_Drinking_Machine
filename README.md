@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/">
-    <img src="Picture/蜂鸣器1.png" alt="蜂鸣器1" width="80" height="80">
+    <img src="[Picture/蜂鸣器1.png](https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/Picture/%E8%9C%82%E9%B8%A3%E5%99%A81.png)" alt="效果图" width="80" height="80">
   </a>
 
   <h3 align="center">"完美的"README模板</h3>
