@@ -12,12 +12,14 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-                                                                  ![继电器1](https://github.com/qi-ling-er/Cat_Drinking_Machine/assets/124680954/8761013f-725d-4743-b49a-b0d252c38412)
 
 <!-- PROJECT LOGO -->
 <br />
 
 <p align="center">
+    <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine">
+    <img src="blob/main/Picture/按键1.png" alt="效果图" width="80" height="80">
+  </a>
   <h3 align="center">支持两种模式，随心切换</h3>
   <p align="center">
     一种模式为感应模式，一种为定时供水模式。感应模式即感应到猫咪即可自动供水，定时供水模式即设定好间隔时间和供水时间自动供水。
