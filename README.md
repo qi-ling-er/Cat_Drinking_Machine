@@ -18,7 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine">
-    <img src="Picture/LOGO.png" alt="效果图" width="80" height="80">
+    <img src="Picture/LOGO.png" alt="效果图" width="200" height="200">
   </a>
   <h3 align="center">支持两种模式，随心切换</h3>
   <p align="center">
