@@ -29,9 +29,9 @@
     <br />
     <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E8%AE%BE%E8%AE%A1%E5%9B%BE.docx">设计图</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/STM32F103C8T6%E5%BC%95%E8%84%9A%E5%AE%9A%E4%B9%89.xlsx">芯片引脚定义表</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E5%AE%9E%E7%89%A9%E5%9B%BE.pptx">实物图</a>
   </p>
 
 </p>
@@ -43,10 +43,10 @@
 
 - [上手指南](#上手指南)
   - [开发版型号](#开发板型号)
-  - [传感器](#传感器)
+  - [安装步骤](#安装步骤)
 - [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
-- [部署](#部署)
+- [硬件架构](#硬件架构)
+- [开发环境部署](#开发环境部署)
 - [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
@@ -56,14 +56,13 @@
 
 ### 上手指南
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+主要介绍硬件的组装
 
 
 
-###### 开发前的配置要求
+###### 开发板型号
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
+1. stm32f103c8t6最小系统板
 
 ###### **安装步骤**
 
@@ -79,9 +78,12 @@ eg:
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
 ├── README.md
+├── keilkill.bat
+├── project.uvguix.21424
+├── project.uvguix.Mxl
+├── project.uvoptx
+├── project.uvprojx
 ├── /account/
 ├── /bbs/
 ├── /docs/
@@ -101,11 +103,11 @@ filetree
 
 
 
-### 开发的架构 
+### 硬件架构 
 
 请阅读[ARCHITECTURE.md](https://github.com/shaojintian/Best_README_template/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
 
-### 部署
+### 开发环境部署
 
 暂无
 
