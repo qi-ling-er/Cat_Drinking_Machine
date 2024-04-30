@@ -47,7 +47,6 @@
 - [文件目录说明](#文件目录说明)
 - [硬件架构](#硬件架构)
 - [开发环境部署](#开发环境部署)
-- [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
 - [版本控制](#版本控制)
@@ -73,7 +72,6 @@ https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/Keil5%20MDK%
 ```
 
 ### 文件目录说明
-eg:
 
 ```
 filetree
@@ -139,6 +137,7 @@ filetree
 ├── /Listings/
 ├── /Objects/
 ├── /Picture/
+├── /STLink/
 ├── /Start/
 │  ├── core_cm3.c
 │  ├── core_cm3.h
@@ -187,13 +186,12 @@ filetree
 
 ### 开发环境部署
 
-暂无
-
-### 使用到的框架
-
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- 注意:本项目环境已经部署完毕，可直接使用。
+- 环境文件内包含启动文件、库函数等
+- [环境文件](https://pan.baidu.com/s/1QC1e7v7R6bidXlI7JsfD4A?pwd=4nb2 )
+- [开发环境具体配置](https://blog.csdn.net/Galois4684/article/details/132536764)
+- 电脑如果为64位，则双击dpinst_amd64.exe ;  电脑如果为32位，则双击dpinst_86.exe ;
+- [STLink驱动安装](https://github.com/qi-ling-er/Cat_Drinking_Machine/tree/main/STLink/USBDriver)
 
 ### 贡献者
 
