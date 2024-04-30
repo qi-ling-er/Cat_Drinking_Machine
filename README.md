@@ -43,7 +43,7 @@
 
 - [上手指南](#上手指南)
   - [开发版型号](#开发板型号)
-  - [安装步骤](#安装步骤)
+  - [Keil安装步骤](#Keil安装步骤)
 - [文件目录说明](#文件目录说明)
 - [硬件架构](#硬件架构)
 - [开发环境部署](#开发环境部署)
@@ -64,10 +64,9 @@
 
 1. stm32f103c8t6最小系统板
 
-###### **安装步骤**
+###### **Keil安装步骤**
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. 本文档为参考别人的文档 [https://blog.csdn.net/weixin_44543463/article/details/120535830](https://blog.csdn.net/weixin_44543463/article/details/120535830)
 
 ```sh
 git clone https://github.com/shaojintian/Best_README_template.git
