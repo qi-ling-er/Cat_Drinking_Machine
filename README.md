@@ -66,10 +66,10 @@
 
 ###### **Keil安装步骤**
 
-1. 本文档为参考别人的文档 [https://blog.csdn.net/weixin_44543463/article/details/120535830](https://blog.csdn.net/weixin_44543463/article/details/120535830)
+1. 本文档为转载的别人的文档 [https://blog.csdn.net/weixin_44543463/article/details/120535830](https://blog.csdn.net/weixin_44543463/article/details/120535830)
 
 ```sh
-git clone https://github.com/shaojintian/Best_README_template.git
+Local address https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/Keil5%20MDK%E7%89%88%20%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%EF%BC%88STM32%E5%8D%95%E7%89%87%E6%9C%BA%E7%BC%96%E7%A8%8B%E8%BD%AF%E4%BB%B6%EF%BC%89.md
 ```
 
 ### 文件目录说明
