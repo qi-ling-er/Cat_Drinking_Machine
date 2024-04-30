@@ -197,7 +197,7 @@ filetree
 
 ### 贡献者
 
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
+- [欺零贰](https://github.com/qi-ling-er)
 
 #### 如何参与开源项目
 
@@ -222,12 +222,10 @@ han2142484077@outlook.com
 
 微信:M-X-L666  &ensp; qq:2142484077    
 
- *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
 
-####V1.0
-*[LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)*
+V1.0
 
 ### 鸣谢
 
