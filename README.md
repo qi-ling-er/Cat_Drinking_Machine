@@ -218,15 +218,16 @@ filetree
 
 ### 作者
 
-xxx@xxxx
+han2142484077@outlook.com
 
-知乎:xxxx  &ensp; qq:xxxxxx    
+微信:M-X-L666  &ensp; qq:2142484077    
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+####V1.0
+*[LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)*
 
 ### 鸣谢
 
