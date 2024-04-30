@@ -61,11 +61,13 @@
 
 ###### 开发板型号
 
-1. stm32f103c8t6最小系统板
+- stm32f103c8t6最小系统板
 
 ###### **Keil安装步骤**
 
-1. 本文档为转载的别人的文档 [https://blog.csdn.net/weixin_44543463/article/details/120535830](https://blog.csdn.net/weixin_44543463/article/details/120535830)
+- 本文档为转载的别人的文档 [https://blog.csdn.net/weixin_44543463/article/details/120535830](https://blog.csdn.net/weixin_44543463/article/details/120535830)
+- 文件为Keil5 MDK安装包以及注册机破解
+- [KEIL5 MDK](https://pan.baidu.com/s/1A75eKCvUqNc_mI76Wug09Q?pwd=2203 )
 
 ```sh
 https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/Keil5%20MDK%E7%89%88%20%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%EF%BC%88STM32%E5%8D%95%E7%89%87%E6%9C%BA%E7%BC%96%E7%A8%8B%E8%BD%AF%E4%BB%B6%EF%BC%89.md
@@ -188,7 +190,7 @@ filetree
 
 - 注意:本项目环境已经部署完毕，可直接使用。
 - 环境文件内包含启动文件、库函数等
-- [环境文件](https://pan.baidu.com/s/1QC1e7v7R6bidXlI7JsfD4A?pwd=4nb2 )
+- [环境文件](https://pan.baidu.com/s/1Rribvl4nhCRjV1MZfp6T6w?pwd=uipw )
 - [开发环境具体配置](https://blog.csdn.net/Galois4684/article/details/132536764)
 - 电脑如果为64位，则双击dpinst_amd64.exe ;  电脑如果为32位，则双击dpinst_86.exe ;
 - [STLink驱动安装](https://github.com/qi-ling-er/Cat_Drinking_Machine/tree/main/STLink/USBDriver)
@@ -212,7 +214,9 @@ filetree
 
 ### 版本控制
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+V1.0
+
+
 
 ### 作者
 
@@ -221,9 +225,6 @@ han2142484077@outlook.com
 微信:M-X-L666  &ensp; qq:2142484077    
 
 
-### 版权说明
-
-V1.0
 
 ### 鸣谢
 
