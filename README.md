@@ -183,7 +183,7 @@ filetree
 
 ### 硬件架构 
 
-请阅读[ARCHITECTURE.md](https://github.com/shaojintian/Best_README_template/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
+请阅读[https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md](https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md) 查阅该项目的硬件架构。
 
 ### 开发环境部署
 
