@@ -183,7 +183,7 @@ filetree
 
 ### 硬件架构 
 
-请阅读[https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md](https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md) 查阅该项目的硬件架构。
+请阅读 [https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md](https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md) 查阅该项目的硬件架构。
 
 ### 开发环境部署
 
