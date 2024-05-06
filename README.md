@@ -34,7 +34,7 @@
     ·
     <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/STM32F103C8T6%E5%BC%95%E8%84%9A%E5%AE%9A%E4%B9%89.xlsx">芯片引脚定义表</a>
     ·
-    <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E5%AE%9E%E7%89%A9%E5%9B%BE.pptx">实物图</a>
+    <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E5%AE%9E%E7%89%A9%E5%9B%BE.txt">实物图</a>
   </p>
 
 </p>
@@ -70,7 +70,7 @@
 
 - 本文档为转载的别人的文档 [https://blog.csdn.net/weixin_44543463/article/details/120535830](https://blog.csdn.net/weixin_44543463/article/details/120535830)
 - 文件为Keil5 MDK安装包以及注册机破解
-- [KEIL5 MDK](https://pan.baidu.com/s/1A75eKCvUqNc_mI76Wug09Q?pwd=2203 )
+- [KEIL5 MDK](https://pan.baidu.com/s/1e3isbHZtTudonYUXKxXZQg?pwd=6di1 )
 
 ```sh
 https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/Keil5%20MDK%E7%89%88%20%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B%EF%BC%88STM32%E5%8D%95%E7%89%87%E6%9C%BA%E7%BC%96%E7%A8%8B%E8%BD%AF%E4%BB%B6%EF%BC%89.md
@@ -193,13 +193,13 @@ filetree
 
 ### 硬件架构 
 
-请阅读 [https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md](https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84.md) 查阅该项目的硬件架构。
+请阅读 [https://github.com/qi-ling-er/Cat_Drinking_Machine/readme/硬件架构](https://github.com/qi-ling-er/Cat_Drinking_Machine/tree/main/readme/%E7%A1%AC%E4%BB%B6%E6%9E%B6%E6%9E%84) 查阅该项目的硬件架构。
 
 ### 开发环境部署
 
 - 注意:本项目环境已经部署完毕，可直接使用。
 - 环境文件内包含启动文件、库函数等
-- [环境文件](https://pan.baidu.com/s/1Rribvl4nhCRjV1MZfp6T6w?pwd=uipw )
+- [环境文件](https://pan.baidu.com/s/1JTZbGEEXKS3VkUmK0fNlwA?pwd=9q8a )
 - [开发环境具体配置](https://blog.csdn.net/Galois4684/article/details/132536764)
 - 电脑如果为64位，则双击dpinst_amd64.exe ;  电脑如果为32位，则双击dpinst_86.exe ;
 - [STLink驱动安装](https://github.com/qi-ling-er/Cat_Drinking_Machine/tree/main/STLink/USBDriver)
