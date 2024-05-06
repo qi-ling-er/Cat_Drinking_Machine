@@ -25,6 +25,8 @@
     一种模式为感应模式，一种为定时供水模式。感应模式即感应到猫咪即可自动供水，定时供水模式即设定好间隔时间和供水时间自动供水。
     <br />
     <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.docx"><strong>百度网盘源码下载</strong></a>
+    <br />
+    <br />
     <a href="https://github.com/qi-ling-er/Cat_Drinking_Machine/blob/main/readme/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.docx"><strong>使用说明 »</strong></a>
     <br />
     <br />
